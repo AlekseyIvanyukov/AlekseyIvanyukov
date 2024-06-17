@@ -2,9 +2,10 @@ Hi 👋 My name is Aleksey Ivanyukov
 ==================================
 Frontend Developer
 ------------------
-I'm a beginner frontend developer
+And I'm a beginner frontend developer
 * 🌍  I'm based in Samara
 * ✉️  You can contact me at [aa.ivanyukov@gmail.com](mailto:aa.ivanyukov@gmail.com)
+* ✉️  My Telegram: @Ivanyukov
 
 ### Skills
 
